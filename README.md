@@ -1,2 +1,2 @@
-# SafeLinkWebsite
-This is a website to accompany the SafeLink extension.
+# EmailTracker Website
+This is a website to accompany the EmailTracker extension.
